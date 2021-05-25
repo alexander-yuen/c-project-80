@@ -1,0 +1,25 @@
+#unsort_button,#sort_button{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#display_name_with_no_comma{
+    background-color: blue;
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#display_name{
+    background-color: coral;
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 10px;
+    width: 50%;
+}
+
+input{
+    margin: 10px;
+}
